@@ -1,5 +1,6 @@
-streamlit
+streamlit==1.41.1
 pandas
-ortools
+ortools==9.10.4067  # Versión reciente y estable en 2026
 openpyxl
 requests
+protobuf==5.28.2    # Versión compatible con ortools reciente y Streamlit
